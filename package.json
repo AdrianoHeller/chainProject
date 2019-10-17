@@ -1,0 +1,25 @@
+{
+  "name": "chianproject",
+  "version": "1.0.0",
+  "description": "blockchain nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianoHeller/chainProject.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blockchain",
+    "api",
+    "rest"
+  ],
+  "author": "Adriano Heller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianoHeller/chainProject/issues"
+  },
+  "homepage": "https://github.com/AdrianoHeller/chainProject#readme"
+}
